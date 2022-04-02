@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Michelle Bakeman Art</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+
+<h1>-Michelle Bakeman-</h1>
+<h2>an artist living in Cuenca, Ecuador</h2>
+
+<nav>
+    <ul>
+        <li>
+            <a href=”/”>Home |</a>
+        </li>
+        <li>
+            <a href=”/paintings”> Paintings |</a>
+        </li>
+        <li>
+            <a href=”/furniture”> Furniture |</a>
+        </li>
+        <li>
+            <a href=”/bio”> Bio |</a>
+        </li>
+        <li>
+            <a href=”/contact”> Contact </a>
+        </li>
+    </ul>
+      </nav>
+
+
+
+<div class="headshot">
+    <img src="C:\Users\pandm\Desktop\projects\Michelle\Resources\michelle-modified.png" width="300px" height="auto">
+</div>
+
+<div class="paintings">
+    <h2>Paintings</h2>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="C:\Users\pandm\Desktop\projects\Michelle\Resources\8.jpg">
+    <img src="C:\Users\pandm\Desktop\projects\Michelle\Resources\8.jpg" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="C:\Users\pandm\Desktop\projects\Michelle\Resources\9.jpg">
+    <img src="C:\Users\pandm\Desktop\projects\Michelle\Resources\9.jpg" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="C:\Users\pandm\Desktop\projects\Michelle\Resources\10.jpg">
+    <img src="C:\Users\pandm\Desktop\projects\Michelle\Resources\10.jpg" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="C:\Users\pandm\Desktop\projects\Michelle\Resources\11.jpg">
+    <img src="C:\Users\pandm\Desktop\projects\Michelle\Resources\11.jpg" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
